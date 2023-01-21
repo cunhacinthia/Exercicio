@@ -1,2 +1,2 @@
-# Exercicios
+# Exercicio
 Conversor de temperatura
